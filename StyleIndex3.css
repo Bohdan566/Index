@@ -1,0 +1,132 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}  */
+
+.block_1{
+    width: 400px;
+    height: 100px;
+    background-color: seagreen;
+    color: blue;
+    float: left;
+}
+
+.block_2{
+    width: 600px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+
+.block_3{
+    width: 900px;
+    height: 100px;
+    background-color: yellow;
+    clear: both;
+}
+
+.block_4{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    clear: both;
+}
+
+.block_5, .block_6, .block_7{
+    /* width: fit-content; */
+    height: 50px;
+    background-color: salmon;
+    display: inline-block;
+}
+
+/* body{
+    font-size: 0;
+} */
+
+div{
+    font-size: 18px;
+}
+
+/* ul{
+    padding: 0px;
+} */
+
+li{
+    
+    /* display: inline-block; 
+    background-color: yellow; */
+} 
+
+/* .block_8, .block_9, .block_10{
+    position: absolute;
+
+} */
+
+.block_8{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+}
+
+.block_9{
+    position: absolute;
+    bottom: 200px;
+    right: 200px;
+}
+
+.block_10{
+    position: absolute;
+    top: 200px;
+    right: 300px;
+}
+
+
+.baseClass{
+    width: 200px;
+    height: 200px;
+}
+
+.red{
+    
+    border-radius: 50%;
+    background: linear-gradient(60deg, red, yellow, green);
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.block_11{
+    position: fixed;
+    top: 20px;
+}
+
+.block_12{
+    position: relative;
+ 
+}
+
+.block_13{
+    position: relative;
+   top: 50px;
+}
+
+.block_14{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: relative;
+}
+
+.block_15{
+    width: 200px;
+    height: 200px;
+    top: 200px;
+    background-color: blue;
+    position: absolute;
+}
+

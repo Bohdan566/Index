@@ -1,0 +1,50 @@
+p{
+    color: green;
+}
+
+h2{
+    text-align: center;
+}
+
+li{
+    color: blue;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.class-1{
+    color: red;
+    background-color: rgba(30,230,120,0.2);
+}
+
+.class-2{
+    color: yellow;
+    background-color: rgb(120, 332, 145);
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    display: block;
+    border-radius: 15%;
+    margin: 0 auto;
+}
+
+#id-1{
+    color: blueviolet;
+}
+
+.class-3{
+    display: block;
+    color: white;
+    background-color: blue;
+    border: 3px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    width: 28%;
+    padding: 5px;
+}
+
+.class-4{
+    color: red;
+}
